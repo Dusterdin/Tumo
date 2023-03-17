@@ -1,0 +1,23 @@
+{
+  "name": "tumo",
+  "version": "1.0.0",
+  "main": "lesson.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dusterdin/Tumo.git"
+  },
+  "homepage": "https://github.com/Dusterdin/Tumo.git",
+  "bugs": {
+    "url": "https://github.com/Dusterdin/Tumo/issues"
+  },
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
